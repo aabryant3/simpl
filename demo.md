@@ -7,13 +7,13 @@ This is the second line.
 This is the third line.
 
 
-This is the fourth line. This is my favorite line.
+This is the fourth line. This used to be my favorite line.
 
 
-This is another test to practice updating a file.
+This is another test to practice updating a file. Let's see how we do!
 
 
 This is the end. Take a look on GitHub. This is the local final. These are edits for the new branch.
 
 
-The toothbrush requires Colgate toothpaste.
+The toothbrush requires TheraBreath toothpaste. You also need mouthwash.
