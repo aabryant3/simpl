@@ -7,7 +7,7 @@ This is the second line.
 This is the third line.
 
 
-This is the fourth line.
+This is the fourth line. This is my favorite line.
 
 
 This is another test to practice updating a file.
