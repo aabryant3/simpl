@@ -13,4 +13,7 @@ This is the fourth line. This is my favorite line.
 This is another test to practice updating a file.
 
 
-This is the end. Take a look on GitHub. This is the local final.
+This is the end. Take a look on GitHub. This is the local final. These are edits for the new branch.
+
+
+The toothbrush requires Colgate toothpaste.
